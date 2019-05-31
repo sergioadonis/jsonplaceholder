@@ -1,9 +1,82 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "onbase": [
+    "DocumentId":"13086",
+"Keywords":[
+{
+"KeywordId":53,
+"KeywordName":"Check Amount",
+"Value":"204.48"
+},
+{
+"KeywordId":102,
+"KeywordName":"Vendor Name",
+"Value":"OFFICE SUPPLY WAREHOUSE"
+},
+{
+"KeywordId":103,
+"KeywordName":"PO #",
+"Value":"660"
+},
+{
+"KeywordId":106,
+"KeywordName":"Vendor #",
+"Value":"123"
+},
+{
+"KeywordId":114,
+"KeywordName":"Invoice #",
+"Value":"2110"
+},
+{
+"KeywordId":122,
+"KeywordName":"Check #",
+"Value":"650"
+},
+    "KeywordId":156,
+"KeywordName":"Check Date",
+"Value":"1-10-2012"
+},
+{
+"KeywordId":263,
+"KeywordName":"Motivo Rechazado",
+"Value":"TEST"
+}
+],
+"Type":"GetDocumentKeywords",
+"Status":"OK"
+},
+{
+"DocumentId":"14482",
+"Type":"DeleteDocument",
+"Status":"OK"
+},
+{
+"DocumentTypes":[
+{
+  "DocTypeId":217,
+"DocTypeName":"A-Certificado Alumno Regular"
+},
+{
+"DocTypeId":218,
+"DocTypeName":"A-Certificado de Abandono"
+},
+{
+"DocTypeId":219,
+"DocTypeName":"A-Certificado embarazo emitido por Compin"
+},
+{
+"DocTypeId":220,
+"DocTypeName":"A-Certificado embarazo emitido por Consultorio"
+},
+{
+"DocTypeId":221,
+"DocTypeName":"A-Certificado Matrimonio"
+}
+],
+"Type":"GetDocumentTypes",
+"Status":"OK"
+}
+    
   ],
   "profile": {
     "name": "typicode"
