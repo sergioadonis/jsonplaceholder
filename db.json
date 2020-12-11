@@ -1,4 +1,5 @@
 {
+  "AccountTypes": ["ACTIVO", "PASIVO", "PATRIMONIO", "INGRESOS", "GASTOS"],
   "Accounts": [
     {
       "Code": "1",
