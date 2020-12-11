@@ -5,98 +5,98 @@
       "Name": "ACTIVOS",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": null
+      "ParentAccountCode": null
     },
     {
       "Code": "11",
       "Name": "ACTIVOS CORRIENTE",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": "1"
+      "ParentAccountCode": "1"
     },
     {
       "Code": "1101",
       "Name": "EFECTIVO Y EQUIVALENTE",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": "11"
+      "ParentAccountCode": "11"
     },
     {
       "Code": "110101",
       "Name": "Caja General",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": "1101"
+      "ParentAccountCode": "1101"
     },
     {
       "Code": "110102",
       "Name": "Caja Chica",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": "1101"
+      "ParentAccountCode": "1101"
     },
     {
       "Code": "110103",
       "Name": "Banco",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": "1101"
+      "ParentAccountCode": "1101"
     },
     {
       "Code": "11010301",
       "Name": "Depósitos en cuentas corrientes",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": "110103"
+      "ParentAccountCode": "110103"
     },
     {
       "Code": "1101030101",
       "Name": "Banco Agrícola",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": "11010301"
+      "ParentAccountCode": "11010301"
     },
     {
       "Code": "1101030101",
       "Name": "Banco Cuscatlán",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": "11010301"
+      "ParentAccountCode": "11010301"
     },
     {
       "Code": "1101030101",
       "Name": "Banco Davivienda",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": "11010301"
+      "ParentAccountCode": "11010301"
     },
     {
       "Code": "11010302",
       "Name": "Depósitos en cuentas de ahorro",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": "110103"
+      "ParentAccountCode": "110103"
     },
     {
       "Code": "1101030201",
       "Name": "Banco Agrícola",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": "11010302"
+      "ParentAccountCode": "11010302"
     },
     {
       "Code": "1101030201",
       "Name": "Banco Cuscatlán",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": "11010302"
+      "ParentAccountCode": "11010302"
     },
     {
       "Code": "1101030201",
       "Name": "Banco Davivienda",
       "IsActive": true,
       "AccountType": "ACTIVO",
-      "ParentCode": "11010302"
+      "ParentAccountCode": "11010302"
     }
    ],
   "Documents": [
