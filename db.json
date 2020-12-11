@@ -27,6 +27,48 @@
       "IsActive": true,
       "AccountType": "ACTIVO",
       "ParentCode": "1101"
+    },
+    {
+      "Code": "110102",
+      "Name": "Caja Chica",
+      "IsActive": true,
+      "AccountType": "ACTIVO",
+      "ParentCode": "1101"
+    },
+    {
+      "Code": "110103",
+      "Name": "Banco",
+      "IsActive": true,
+      "AccountType": "ACTIVO",
+      "ParentCode": "1101"
+    },
+    {
+      "Code": "11010301",
+      "Name": "Depósitos en cuentas corrientes",
+      "IsActive": true,
+      "AccountType": "ACTIVO",
+      "ParentCode": "110103"
+    },
+    {
+      "Code": "1101030101",
+      "Name": "Banco Agrícola",
+      "IsActive": true,
+      "AccountType": "ACTIVO",
+      "ParentCode": "11010301"
+    },
+    {
+      "Code": "1101030101",
+      "Name": "Banco Cuscatlán",
+      "IsActive": true,
+      "AccountType": "ACTIVO",
+      "ParentCode": "11010301"
+    },
+    {
+      "Code": "1101030101",
+      "Name": "Banco Davivienda",
+      "IsActive": true,
+      "AccountType": "ACTIVO",
+      "ParentCode": "11010301"
     }
    ],
   "Documents": [
