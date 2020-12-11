@@ -4,28 +4,28 @@
       "Code": "1",
       "Name": "ACTIVOS",
       "IsActive": true,
-      "AccountType": "ACTIVO"
+      "AccountType": "ACTIVO",
       "ParentCode": null
     },
     {
       "Code": "11",
       "Name": "ACTIVOS CORRIENTE",
       "IsActive": true,
-      "AccountType": "ACTIVO"
+      "AccountType": "ACTIVO",
       "ParentCode": "1"
     },
     {
       "Code": "1101",
       "Name": "EFECTIVO Y EQUIVALENTE",
       "IsActive": true,
-      "AccountType": "ACTIVO"
+      "AccountType": "ACTIVO",
       "ParentCode": "11"
     },
     {
       "Code": "110101",
       "Name": "Caja General",
       "IsActive": true,
-      "AccountType": "ACTIVO"
+      "AccountType": "ACTIVO",
       "ParentCode": "1101"
     }
    ],
