@@ -2,47 +2,47 @@
   "AccountTypes": ["ACTIVO", "PASIVO", "PATRIMONIO", "INGRESOS", "GASTOS"],
   "Accounts": [
     {
-      "Code": "1",
+      "Id": "1",
       "Name": "ACTIVOS",
       "IsActive": true      
     },
     {
-      "Code": "11",
+      "Id": "11",
       "Name": "ACTIVOS CORRIENTE",
       "IsActive": true
     },
     {
-      "Code": "1101",
+      "Id": "1101",
       "Name": "EFECTIVO Y EQUIVALENTE",
       "IsActive": true
     },
     {
-      "Code": "110101",
+      "Id": "110101",
       "Name": "Caja General",
       "IsActive": true
     },
     {
-      "Code": "110102",
+      "Id": "110102",
       "Name": "Caja Chica",
       "IsActive": true
     },
     {
-      "Code": "110103",
+      "Id": "110103",
       "Name": "Banco",
       "IsActive": true
     },
     {
-      "Code": "11010301",
+      "Id": "11010301",
       "Name": "Depósitos en cuentas corrientes",
       "IsActive": true
     },
     {
-      "Code": "1101030101",
+      "Id": "1101030101",
       "Name": "Banco Agrícola",
       "IsActive": true
     },
     {
-      "Code": "1101030101",
+      "Id": "1101030101",
       "Name": "Banco Cuscatlán",
       "IsActive": true
     },
@@ -52,22 +52,22 @@
       "IsActive": true
     },
     {
-      "Code": "11010302",
+      "Id": "11010302",
       "Name": "Depósitos en cuentas de ahorro",
       "IsActive": true
     },
     {
-      "Code": "1101030201",
+      "Id": "1101030201",
       "Name": "Banco Agrícola",
       "IsActive": true
     },
     {
-      "Code": "1101030201",
+      "Id": "1101030201",
       "Name": "Banco Cuscatlán",
       "IsActive": true
     },
     {
-      "Code": "1101030201",
+      "Id": "1101030201",
       "Name": "Banco Davivienda",
       "IsActive": true
     }
